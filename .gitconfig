@@ -1,0 +1,9 @@
+[user]
+    email = renanc433@gmail.com
+    name = Renan Campos
+
+[alias]
+    lg = log --oneline --decorate --all --graph
+
+[includeIf "gitdir:~/Documents/projects"]
+    path = ~/.gitconfig_renanc4
